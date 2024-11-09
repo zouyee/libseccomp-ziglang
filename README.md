@@ -1,6 +1,6 @@
 ![libseccomp Ziglang Bindings](https://github.com/seccomp/libseccomp-artwork/blob/main/logo/libseccomp-color_text.png)
 ===============================================================================
-https://github.com/seccomp/libseccomp-ziglang
+https://github.com/zouyee/libseccomp-ziglang
 
 
 The libseccomp library provides an easy to use, platform independent, interface
